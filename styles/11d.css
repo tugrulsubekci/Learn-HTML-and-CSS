@@ -1,0 +1,61 @@
+.grid
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+}
+.add-friend
+{
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(230, 230, 230);
+    box-shadow: 1px 1px gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.thumbnail2
+{
+    width: 100%;
+}
+.name
+{
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
+.mutual-friends
+{
+    color: gray;
+}
+.add-friend-button
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: rgb(73, 73, 238);
+    color: white;
+    border-radius: 3px;
+    border: none;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.grid-2
+{
+    display: grid;
+    grid-template-columns: 30px 1fr;
+    column-gap: 10px;
+    padding-left: 10px;
+    line-height: 50px;
+}
+.profile-photo
+{
+    width: 100%;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    vertical-align: middle;
+}

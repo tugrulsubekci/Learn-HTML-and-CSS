@@ -1,0 +1,94 @@
+div
+{
+    display: block;
+}
+.name,
+.surname
+{
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-color: rgb(226, 226, 226);
+    border-style: solid;
+}
+.email
+{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-color: rgb(226, 226, 226);
+    border-style: solid;
+    padding-right: 0vmax;
+    width: 380px;
+}
+.signupbutton
+{
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display: block;
+    width: 394px;
+    border: none;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(53, 53, 255);
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+.txt
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+.uber
+{
+    border: none;
+    background-color: rgb(223, 223, 223);
+    color: black;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 150px;
+}
+.request
+{
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 13px;
+}
+.schedule
+{
+    border: none;
+    background-color: rgb(228, 228, 228);
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

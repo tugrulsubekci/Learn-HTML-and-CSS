@@ -1,0 +1,58 @@
+.profile-photo-div
+{
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    vertical-align: middle;
+}
+.profile-photo
+{
+    width: 60px;
+    border-radius: 50%;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.profile-info-div
+{
+    display: inline-block;
+    width: 300px;
+    vertical-align: middle;
+}
+p
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Montserrat;
+}
+.name
+{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.follow-button-div
+{
+    display: inline-block;
+    width: 100px;
+}
+.follow-button
+{
+    color: white;
+    background-color: rgb(73, 73, 197);
+    border: none;
+    font-size: large;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.all
+{
+    width: fit-content;
+    height: fit-content;
+    border: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(207, 207, 207);
+    box-shadow: 1px 1px gray;
+}

@@ -1,0 +1,19 @@
+.first-grid
+{
+    display: grid;
+    grid-template-columns: 200px 75px;
+    margin-bottom: 40px;
+}
+.second-grid
+{
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+    margin-bottom: 40px;
+}
+.third-grid
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 10px;
+}

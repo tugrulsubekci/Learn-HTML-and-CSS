@@ -1,0 +1,39 @@
+.name,
+.email
+{
+    width: 100px;
+    display: block;
+    margin-bottom: 5px;
+}
+.shit
+{
+    width: 150px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.sevenE
+{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    padding-right: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: rgb(136, 136, 136);
+    width: 200px;
+    border-radius: 20px;
+    border-width: 1px;
+    margin-bottom: 20px;
+}
+
+.logo
+{
+    display: block;
+    margin: auto;
+
+}
+
+.first
+{
+    display: inline-block;
+    text-align: center;
+}

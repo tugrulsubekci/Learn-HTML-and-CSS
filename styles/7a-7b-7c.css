@@ -1,0 +1,27 @@
+.ahsen1
+{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.ahsen2
+{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 20px;
+}
+
+.ahsen3
+{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 20px;
+    border-radius: 100px;
+}

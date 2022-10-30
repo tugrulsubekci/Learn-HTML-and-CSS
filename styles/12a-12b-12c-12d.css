@@ -1,0 +1,67 @@
+.first-div
+{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+.one
+{
+    background-color: lightblue;
+    width: 200px;
+}
+.two
+{
+    background-color: lightcoral;
+    width: 75px;
+}
+.second-div
+{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+.item1
+{
+    width: 50px;
+    background-color: lightblue;
+}
+.item2
+{
+    background-color: lightcoral;
+
+    flex: 1;
+}
+.item3
+{
+    width: 75px;
+    background-color: lightblue;
+}
+.third-div
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.i1,
+.i2,
+.i3,
+.i4
+{
+    background-color: lightcoral;
+}
+.fourth-div
+{
+    display: flex;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    align-items: center;
+    justify-content: space-between;
+}
+.a,
+.b
+{
+    background-color: lightcoral;
+}
