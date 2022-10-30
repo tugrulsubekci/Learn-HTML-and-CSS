@@ -1,0 +1,47 @@
+.container
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 700px;
+    background-color: rgb(172, 28, 172);
+    height: 60px;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.home-button
+{
+    border: none;
+    background-color: rgb(172, 28, 172);
+    color: white;
+    font-size: 18;
+    padding: 0;
+}
+.download-button
+{
+    border-width: 1px;
+    border-color: white;
+    background-color: rgb(172, 28, 172);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+button
+{
+    font-family: Montserrat;
+    font-size: 18px;
+}
+input
+{
+    font-family: Montserrat;
+    font-size: 15px;
+    padding-left: 15px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 30px;
+}
