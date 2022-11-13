@@ -1,0 +1,24 @@
+.container
+{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+}
+.item1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: palevioletred;
+    width: 100px;
+}
+.ok
+{
+    background-color: black;
+    color: white;
+}
+.item2
+{
+    background-color: aqua;
+    width: 200px;
+}

@@ -1,0 +1,61 @@
+.a
+{
+    position: absolute;
+    right: 10px;
+    top: 10 px;
+    background-color: black;
+    color: white;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3px;
+    padding-bottom: 10px;
+    padding-right: 6px;
+    padding-left: 6px;
+    border-radius: 50%;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body
+{
+    height: 3000px;
+}
+.b
+{
+    height: 180px;
+    width: 320px;
+    background-color: gray;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+.close{
+    position: absolute;
+    left: -18px;
+    top: -18px;
+    background-color: black;
+    color: white;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3px;
+    padding-bottom: 10px;
+    padding-right: 6px;
+    padding-left: 6px;
+    border-radius: 50%;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.time
+{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    background-color: black;
+    color: white;
+    padding: 1%;
+}

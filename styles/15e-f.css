@@ -1,0 +1,45 @@
+.product
+{
+    position: relative;
+    height: 300px;
+    width: 500px;
+}
+.thumbnail
+{
+    height: 100%;
+    width: 100%;
+}
+.item1
+{
+    position: absolute;
+    right: 0px;
+    top: 10px;
+    background-color: black;
+    color: white;
+    padding: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.item2
+{
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    background-color: rgba(168, 168, 168, 0.562);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button1
+{
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border-radius: 1px;
+}

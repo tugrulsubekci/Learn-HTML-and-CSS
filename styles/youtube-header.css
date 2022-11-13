@@ -1,0 +1,127 @@
+.header
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    align-items: center;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    padding-bottom: 10px;
+    border-bottom-color: rgb(218, 218, 218);
+    background-color: white;
+    z-index: 100;
+}
+.first
+{
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.second
+{
+    display: flex;
+    align-items: center;
+    width: 700px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.third
+{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;    
+}
+
+.hamburger-menu
+{
+    height: 22px;
+}
+.youtube-logo
+{
+    height: 20px;
+}
+.upload-icon
+{
+    height: 24px;
+}
+.youtube-apps-icon
+{
+    height: 24px;
+}
+.notifications-icon
+{
+    height: 24px;
+}
+.user-pic
+{
+    border-radius: 50%;
+    height: 30px;
+}
+.search-input
+{
+    font-size: 16px;
+    padding-left: 10px;
+    flex: 1;
+    min-width: 0px;
+    width: 0px;
+    height: 35px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(185, 185, 185);
+    box-shadow: 1px 1px rgb(228, 228, 228) inset;
+}
+.search-button
+{
+    height: 38.5px;
+    width: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(185, 185, 185);
+}
+.search-icon
+{
+    height: 20px;
+}
+.voice-button
+{
+    height: 38.5px;
+    width: 38.5px;
+    border: 0;
+    border-radius: 50%;
+    background-color: rgb(243, 243, 243);
+    margin-left: 10px;
+}
+.voice-search-icon
+{
+    height: 20px;
+}
+.notification-div
+{
+    position: relative;
+}
+.notification-count
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: -4px;
+    top: 0px;
+    background-color: rgb(194, 32, 32);
+    color: white;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    vertical-align: middle;
+    font-size: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
